@@ -1,2 +1,2 @@
-sample text
+Public repository for java qa homeworks 
 
